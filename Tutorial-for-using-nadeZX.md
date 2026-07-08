@@ -1,5 +1,8 @@
 # Tutorial for using nadeZX.a
 
+# install nadeZX.a
+install: npm install nadezx
+
 ## Introduction
 
 nadeZX.a is an API powered by Cloudflare Pages Functions.
