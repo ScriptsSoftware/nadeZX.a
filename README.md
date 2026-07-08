@@ -32,3 +32,8 @@ POST /api/key/create
 
 
 API Endpoints
+
+
+## Documentation
+
+- [Tutorial for using nadeZX.a](Tutorial-for-using-nadeZX.md)
