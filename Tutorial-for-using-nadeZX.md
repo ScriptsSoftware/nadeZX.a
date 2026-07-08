@@ -1,6 +1,7 @@
 # Tutorial for using nadeZX.a
 
 # install nadeZX.a
+```bash
 install: npm install nadezx
 
 ## Introduction
