@@ -1,8 +1,8 @@
-nadeZX.a
+# nadeZX.a
 
 API powered by Cloudflare Pages Functions.
 
-Architecture
+# Architecture
 
 ┌──────────────────────────────┐
 │       GitHub Repository      │
@@ -63,10 +63,10 @@ Generate an API Key
 
 curl -X POST https://nadezxa.pages.dev/api/key/create
 
-Documentation
+# Documentation
 
 - Tutorial-for-using-nadeZX.md
 
-License
+# License
 
 MIT
